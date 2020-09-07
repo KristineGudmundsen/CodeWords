@@ -1,5 +1,8 @@
 # Week 5
 
+## Weekly CodeInspo
+http://www.generative-gestaltung.de/2/
+
 ## Readings
 
 ### "Generation Flash" by Lev Manovich, 2005
