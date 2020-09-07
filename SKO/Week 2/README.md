@@ -5,3 +5,6 @@
 
 ## Weekly inspo
 [Patrik Huebner's website](https://www.patrik-huebner.com)
+
+## Sims
+![png1](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week%202/SimsSlide1.png)
