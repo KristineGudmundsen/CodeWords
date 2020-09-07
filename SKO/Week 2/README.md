@@ -8,3 +8,4 @@
 
 ## Sims
 ![png1](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week%202/SimsSlide1.png)
+![png2](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week%202/SimsSlide2.png)
