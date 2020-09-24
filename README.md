@@ -1,3 +1,3 @@
 # Hello CodeWorld
 
-[Play here](kristinegudmundsen.github.io/CodeWords/p5EasyCamTextLayersTestSound/).
+[Play here](https://kristinegudmundsen.github.io/CodeWords/p5EasyCamTextLayersTestSound/).
