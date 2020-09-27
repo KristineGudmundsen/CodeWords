@@ -4,4 +4,4 @@
 ![png](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_09/LayersDemo.png)
 
 ## Sketches
-[Sketch 1](https://github.com/KristineGudmundsen/CodeWords/SKO/Week_09/MajorProjectSketch1/).
+[Sketch1](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_09/MajorProjectSketch1/).
