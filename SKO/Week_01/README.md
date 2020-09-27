@@ -5,5 +5,5 @@
 
 
 ## First code
-![this is an image](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week%201/K1.png)
-![this is an image](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week%201/K2.png)
+![this is an image](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_01/K1.png)
+![this is an image](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_01/K2.png)
