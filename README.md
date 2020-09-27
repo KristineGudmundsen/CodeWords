@@ -4,5 +4,4 @@
 
 [LetterK](https://kristinegudmundsen.github.io/CodeWords/LetterK/).
 
-[test](https://kristinegudmundsen.github.io/CodeWords/MajorProjectSketch2/).
-
+[test](https://kristinegudmundsen.github.io/CodeWords/MajorProhectSketch2/).
