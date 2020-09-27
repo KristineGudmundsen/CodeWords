@@ -1,7 +1,7 @@
 # Week 1
 
 ## Minecraft
-![](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week%201/Minecraft.png)
+![](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_01/Minecraft.png)
 
 
 ## First code
