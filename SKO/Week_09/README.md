@@ -5,3 +5,5 @@
 
 ## Sketches
 [Sketch1](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_09/MajorProjectSketch1/).
+
+[Sketch2](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_09/MajorProjectSketch2/).
