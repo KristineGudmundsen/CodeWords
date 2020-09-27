@@ -5,3 +5,5 @@
 [LetterK](https://kristinegudmundsen.github.io/CodeWords/LetterK/).
 
 [test](https://kristinegudmundsen.github.io/CodeWords/MajorProhectSketch2/).
+
+[sketch without all soundfiles](https://kristinegudmundsen.github.io/CodeWords/MajorProjectSketch01/).
