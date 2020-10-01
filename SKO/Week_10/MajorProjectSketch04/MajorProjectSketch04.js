@@ -24,7 +24,7 @@ function preload(){
   sound1 = loadSound('data/1.mp3');
   sound2 = loadSound('data/2.mp3');
   sound3 = loadSound('data/3.mp3');
-  sound4 = loadSound('data/4.mp3');
+ /* sound4 = loadSound('data/4.mp3');
   sound5 = loadSound('data/5.mp3');
   sound6 = loadSound('data/6.mp3');
   sound7 = loadSound('data/7.mp3');
@@ -32,7 +32,7 @@ function preload(){
   sound9 = loadSound('data/9.mp3');
   sound10 = loadSound('data/10.mp3');
   sound11 = loadSound('data/11.mp3');
-  
+ */ 
  // soundList = loadSound(['data/0.mp3', 'data/1.mp3', 'data/2.mp3', 'data/3.mp3', 'data/4.mp3', 'data/5.mp3', 'data/6.mp3', 'data/7.mp3', 'data/8.mp3', 'data/9.mp3', 'data/10.mp3', 'data/11.mp3']);
 }
 
