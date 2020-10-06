@@ -1,6 +1,6 @@
 # Week 4
 
-![gif](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week%204/TypeTestSpinning.gif)
+![gif](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_04/TypeTestSpinning.gif)
 
 ## Sims
 
