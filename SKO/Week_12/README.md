@@ -36,5 +36,5 @@
 
 [Grey](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords1/).
 
-[Blue](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords2/).
+[Blue](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords0/).
 
