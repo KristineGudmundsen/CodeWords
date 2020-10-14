@@ -8,5 +8,6 @@
 
 [OnlyLoop](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyLoop/).
 
-[Backup](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup2/).
+[Backup2](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup2/).
 
+[Backup3](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup3/).
