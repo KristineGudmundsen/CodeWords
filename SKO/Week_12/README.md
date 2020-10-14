@@ -14,4 +14,6 @@
 
 [Backup4](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup4/).
 
+[Test](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchTest100/).
+
 
