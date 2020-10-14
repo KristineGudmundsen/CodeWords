@@ -7,3 +7,5 @@
 [OnlyPlay](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyPlay/).
 
 [OnlyLoop](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyLoop/).
+
+[Backup](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup2/).
