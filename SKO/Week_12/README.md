@@ -30,4 +30,6 @@
 
 [MouseWheel3](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel3/).
 
+[MouseWheel4](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel4/).
+
 
