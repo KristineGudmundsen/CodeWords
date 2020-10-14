@@ -18,6 +18,9 @@
 
 [FunctionSound](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchFunctionSounds/).
 
+[FunctionSoundHUDS](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchFunctionSoundsHUDS/).
+
+
 
 
 
