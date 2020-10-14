@@ -34,3 +34,7 @@
 
 [MouseWheel5](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel5/).
 
+[Grey](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords1/).
+
+[Blue](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords2/).
+
