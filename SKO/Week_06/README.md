@@ -8,27 +8,19 @@ We were introduced to paper prototyping by studying old school online games. By 
 
 ## PseudoCode
 
+```javascript
 Tile starts moving down
-
 IF left arrow is pressed
-
 Move tile to left
-
 IF right arrow is pressed
-
 Move tile to right
-
 WHEN tile is at bottom
-
 New tile start moving down from the top
-
 IF all tiles make up one row
-
 Delete row
-
 ELSE IF
-
 Nothing happens
+```
 
 I still need to learn more about how to write efficient pseudocode to be able to write code that will work properly for my major project. I have to look at all the 'what if's' to avoid any unnecessary bugs.
 
