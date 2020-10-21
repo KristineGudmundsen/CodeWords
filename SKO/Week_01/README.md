@@ -13,3 +13,5 @@ We started the semester with a walk in a virtual rainy Melbourne. It was nice to
 Using p5.js for the first time felt overwhelming as I have never coded before, but starting with basic shapes assured me that it's all quite logical and that we're using a program that seems userfriendly with a lot of references and tutorials. 
 
 Seeing how basic shapes, random, and mouseX and Y creates interactive designs that are impossible to do without coding, was very motivating. 
+
+[Next](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_02)
