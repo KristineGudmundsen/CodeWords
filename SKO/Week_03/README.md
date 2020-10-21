@@ -2,6 +2,8 @@
 
 ## Electronic Literature
 
+![phase](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_03/Phase.png)
+
 For me, generative typography is one of the most interesting things with creating coding. I'm sure I'm not the only one finding Win's contribution to the slides intriguing. The Phase typeface explores and displays the creative possibilities with variable typography and creative coding beautifully well.  
 
 
