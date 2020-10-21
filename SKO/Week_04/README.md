@@ -9,7 +9,7 @@ Learning the basics of typography such as preload() and loadFont(), as well as l
 ## Sims
 As we all had designed our characters + Na designing the house and uploaded them to the sims cloud to be available for the group to download, we all made our individual 'hallways'. As long as the walls were the same, building the 'hallways' individually would create more depth to the story as the 'hallways' are described as endless and shifting.
 
-After recording all the material for my section, I put it all together in Premiere where I also added subtitles. I found monologues and dialogues from the passage that seemed fitting. 
+After recording all the material for my section, I put it all together in Premiere where I also added subtitles. I found monologues, dialogues and descriptions from the passage that seemed fitting. 
 
 ## Weekly Inspo
 
