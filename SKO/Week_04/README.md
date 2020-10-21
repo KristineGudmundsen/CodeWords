@@ -22,3 +22,5 @@ The Berlin-based design and development studio, Martin Wecke, creates beautiful 
 
 Such as their menu at the top, or the pmouseX/Y() interaction here:
 https://martinwecke.de/projects/bff-triebwerk/
+
+[Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_03) | [Next](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_05)
