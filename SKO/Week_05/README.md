@@ -15,10 +15,8 @@ I was so impressed by how the groups managed to tell the story in different worl
 
 ### "Generation Flash" by Lev Manovich, 2005
 
-#### Flash Graphics
-http://www.cyberpoetry.com.au
-
-http://www.whitneybiennial.com
-
 As I read through the texts, I found ‘Generation Flash’ by Lev Manovich very intriguing. There’s something nostalgic with flash graphics, and the fact that creative coding has in some way, emerged from this is very interesting. 
 I had a look at the URL from the text, http://www.whitneybiennial.com, and what I found interesting is that some of these styles are coming back. Also, the use of sound in the browser is something I rarely see nowadays except when it comes to videos. 
+
+Some other nostalgic flash graphics that use sound and have a resemblance to p5 is this old school website:
+http://www.cyberpoetry.com.au
