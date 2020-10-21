@@ -18,4 +18,8 @@ Exploring electronic literature some more, I came across this electronic literat
 
 ## Sims
 
+![1](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_03/SimsSlide1.png)
+![2](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_03/SimsSlide2.png)
+![3](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_03/SimsSlide3.png)
+
 Since sims is a life simulation video game that provides realistic film captures, we decided to film our passage in 'documentary style', using movies such as 'The Blair Witch Project' and 'Paranormal Activity' as our inspiration. After studying passage 7 of House of Leaves, we divided the passage into five parts that we found interesting to explore, and also deciding who were going to create which character. Sims is not an online game and it was, therefore, important to set some ground rules as we had to film individually. 
