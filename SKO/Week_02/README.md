@@ -1,6 +1,10 @@
 # Week 2
 
 ## Modular Typography
+![Modular](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_02/Steven%20Bonner_Build.jpg)
+
+'Build' Typeface - by Steven Bonner.
+
 I have always been inspired by the architectural look of modular design, and I think that’s why I’m so interested in typography. 
 
 [Modular Typography Workshop](https://the-brandidentity.com/feed/matthew-tweddle-talks-us-onlys-modular-type-workshop-sheffield-hallam-university/)
