@@ -15,6 +15,8 @@ I was so impressed by how the groups managed to tell the story in different worl
 
 ### "Generation Flash" by Lev Manovich, 2005
 
+![png](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_05/Flash.png)
+
 As I read through the texts, I found ‘Generation Flash’ by Lev Manovich very intriguing. There’s something nostalgic with flash graphics, and the fact that creative coding has in some way, emerged from this is very interesting. 
 I had a look at the URL from the text, http://www.whitneybiennial.com, and what I found interesting is that some of these styles are coming back. Also, the use of sound in the browser is something I rarely see nowadays except when it comes to videos. 
 
