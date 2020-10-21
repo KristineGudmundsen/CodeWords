@@ -22,3 +22,5 @@ I had a look at the URL from the text, http://www.whitneybiennial.com, and what 
 
 Some other nostalgic flash graphics that use sound and have a resemblance to p5 is this old school website:
 http://www.cyberpoetry.com.au
+
+[Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_04) | [Next](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_06)
