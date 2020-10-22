@@ -28,16 +28,14 @@ For every new attempt, I uploaded it to GitHub to get someone to look at it.
 
 I first made a backup code where the sounds are in the mousePressed() function. The sounds unmuted at every plane perfectly, but the user had to click every time they got to a new plane. 
 
+```javascript
 function mousePressed(){
   let state = easycam.getState();
     if(state.distance < 506){
     sound0.play();
     sound0.loop();
     sound0.setVolume(0);
-    sound1.play();
-    sound1.loop();
-    sound1.setVolume(0);
-
+```
 
 ### My Own Function
 
