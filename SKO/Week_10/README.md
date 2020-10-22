@@ -19,3 +19,4 @@ Even though some of my trials make sense won't work and I feel my attempts is a 
 
 After emailing and consultation in class, Karen directed me to the p5.easycam references and the mouse wheel event delta. I still needed to figure out the event and where to put the event. 
 
+[Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_09) | [Next](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_11)
