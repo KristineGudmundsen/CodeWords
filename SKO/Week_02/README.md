@@ -14,7 +14,7 @@ After our hunting and gathering session, I came across this typography workshop 
 ## Weekly Inspo
 [Patrik Huebner's website](https://www.patrik-huebner.com)
 
-## Sims
+## Brief 2: Re-readings
 
 ![Sims](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_02/ka3ybtcfyap41.png)
 
