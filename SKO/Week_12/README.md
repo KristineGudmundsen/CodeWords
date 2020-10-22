@@ -35,6 +35,11 @@ function mousePressed(){
     sound0.play();
     sound0.loop();
     sound0.setVolume(0);
+    } 
+    if(state.distance > 507){
+    sound0.setVolume(0.5);
+  }
+}
 ```
 
 ### My Own Function
