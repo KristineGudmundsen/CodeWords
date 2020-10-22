@@ -92,4 +92,4 @@ As I'm not a hundred per cent sure of the colours, I still want to experiment wi
 I can honestly say that this has been the most instructive and interesting Studio, and it has been a perfect last semester of my bachelor. I am grateful I got the chance to learn code before graduating. Thank you for all the code sessions, knowledge sharing, feedback, help and playful assignments. 
 
 
-
+[Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_11)
