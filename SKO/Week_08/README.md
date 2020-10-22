@@ -22,3 +22,5 @@ In our live coding session, we learned about preload() and basic sound reference
 [Random Boxes + Custom PhongShader by Thomas Diewald](https://www.openprocessing.org/sketch/493904)
 
 I also had a look at the p5 libraries to find a suitable library for my 3D code. p5.easycam provides simple 3D camera controls, which looks suitable for my project. I had a look at the OpenProcessing sketches and did the tutorial to get a feel of how it worked. 
+
+[Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_07) | [Next](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_09)
