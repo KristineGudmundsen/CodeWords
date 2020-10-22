@@ -3,7 +3,7 @@
 ## Weekly CodeInspo
 http://www.generative-gestaltung.de/2/
 
-## Sims
+## Brief 2: Re-readings
 
 After some minor issues with getting the subtitles to look coherent, we finally managed to finish our recordings. Un Ian volunteered to put it all together and upload it to Youtube. Although we discussed how the tension would build up through the passage, we didn't know if we would be able to visualise this when recording individually. But thanks to teamwork and regular group meetings, I believe we were able to show this in the outcome. 
 
