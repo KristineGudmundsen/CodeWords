@@ -1,6 +1,8 @@
 # Week 12
 
-## Consultation
+## Attempts
+
+### Consultation
 
 [Styling](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketch14/).
 
@@ -14,7 +16,7 @@ For every new attempt, I uploaded it to GitHub to get someone to look at it.
 
 [OnlyLoop](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyLoop/).
 
-## Backup codes/MousePressed
+### Backup codes/MousePressed
 
 [Backup2](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup2/).
 
@@ -27,7 +29,7 @@ For every new attempt, I uploaded it to GitHub to get someone to look at it.
 I first made a backup code where the sounds are in the mousePressed() function. The sounds unmuted at every plane perfectly, but the user had to click every time they got to a new plane. 
 
 
-## My Own Function
+### My Own Function
 
 [FunctionSound](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchFunctionSounds/).
 
@@ -38,7 +40,7 @@ https://www.youtube.com/watch?v=wRHAitGzBrg
 https://www.youtube.com/watch?v=zkc417YapfE
 Yet again, the GitHub link worked on my computer, but not others. 
 
-## HUD
+### HUD
 
 [FunctionSoundHUDS](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchFunctionSoundsHUDS/).
 
@@ -49,7 +51,7 @@ Yet again, the GitHub link worked on my computer, but not others.
 I then moved the function into easycam.HUD() which creates a 2D space within the 3D code, which allows two-dimensional objects. I thought this might help lighten the code, but it didn't work. 
 
 
-## MouseWheel
+### MouseWheel
 
 [MouseWheel](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel/).
 
