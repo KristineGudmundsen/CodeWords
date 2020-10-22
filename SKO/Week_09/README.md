@@ -27,7 +27,7 @@ Since the reader uses the mouse wheel to zoom out and navigate in the sketch, it
 ### Sketch_01
 [Sketch1](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_09/MajorProjectSketch01/)
 
-I looped the planes() manually to see how the planes() on different X and Y positions would look like. I also called the text in the draw() function, which meant that the text would draw over each other and look pixelated.
+I looped the planes() with push() and pop() to see how the planes() on different X and Y positions would look like. I also called the text in the draw() function, which meant that the text would draw over each other and look pixelated.
 
 ```javascript
   translate(0,0,350);
