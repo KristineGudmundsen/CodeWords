@@ -27,4 +27,4 @@ The sounds still 'broke' as you scrolled out. My theory was that all the sound l
 ## Mapping
 Karen also helped me making the font size responsive to the windowWidth(), by using:
 
-
+[Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_10) | [Next](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_12)
