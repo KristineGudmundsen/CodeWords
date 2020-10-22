@@ -91,10 +91,10 @@ function mouseWheel(event){
 Studio Drift is an artist collective that explores the boundaries of technology, art and nature. I admire how they use their impressive technical skills to create poetic art installations. They are so considerate with the use of sound, colour and material. - A big inspiration for my code. 
 
 Here are some of my favourite projects:
-https://www.studiodrift.com/work#/meadow/
-https://www.studiodrift.com/work#/the-particle-plan/
-https://www.studiodrift.com/work#/franchise-freedom/
-https://www.studiodrift.com/work#/concrete-storm-microsoft/
+* https://www.studiodrift.com/work#/meadow/
+* https://www.studiodrift.com/work#/the-particle-plan/
+* https://www.studiodrift.com/work#/franchise-freedom/
+* https://www.studiodrift.com/work#/concrete-storm-microsoft/
 
 
 [Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_08) | [Next](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_10)
