@@ -22,7 +22,7 @@ Exploring electronic literature some more, I came across this electronic literat
 
 After having a look at the many typographic inspired sketches on OpenProcessing, I believe p5.js is the tool I’ve been looking for regards to how I can create interactive typography. 
 
-## Sims
+## Brief 2: Re-readings
 
 ![1](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_03/SimsSlide1.png)
 ![2](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_03/SimsSlide2.png)
