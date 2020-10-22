@@ -1,7 +1,7 @@
 # Week 2
 
 ## Modular Typography
-![Modular](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_02/Steven%20Bonner_Build.jpg)
+![Modular](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_02/HuntingGathering.png)
 
 'Build' Typeface - by Steven Bonner.
 
