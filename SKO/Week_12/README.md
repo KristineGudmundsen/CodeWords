@@ -96,11 +96,11 @@ if(state.distance < 500.1){
 
 ![1](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_12/KristineGudmundsen_HeroImage5.jpg)
 
-[Grey](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords1/).
+### [Final Code Grey](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords1/).
 
 ![2](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_12/KristineGudmundsen_HeroImage2.jpg)
 
-[Blue](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords0/).
+### [Final Code Blue](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords0/).
 
 I have never experienced such ups and downs with designing as when coding. The feeling of finally solving my everlasting sound problem was the best feeling. I have been so close to giving up the sound, but through what felt like hundreds of codes that each led me one step closer to the solution, I was able to finally solve it. I now feel like I'm an expert at my code and the process of problem-solving have taught me a great deal of debugging and looking for solutions through testing(testing, testing), tutorials, references and reaching out for help.
 
