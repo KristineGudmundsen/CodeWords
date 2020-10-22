@@ -27,6 +27,12 @@ The sounds still 'broke' as you scrolled out. My theory was that all the sound l
 ## Mapping
 Karen also helped me making the font size responsive to the windowWidth(), by using:
 
+```javascript
 sizeVariable=(map(width, 300, 1800, 40, 200));
+//300 = min width
+//1800 = max width
+//40 = min font size
+//200 = max font size
+```
 
 [Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_10) | [Next](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_12)
