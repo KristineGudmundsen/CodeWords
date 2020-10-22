@@ -22,4 +22,8 @@ I’m a big fan of Sims and have played it ever since Sims 1 came out. In fact, 
 
 The Sims group are Napasorn, Sam, Millicent, Un Ian and me. We created a Teams channel where we intend to post tutorials, thoughts and discussions and arrange group meetings.
 
+## More LetterCode
+
+[LetterB](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_02/LetterBWeek2/).
+
 [Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_01) | [Next](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_03)
