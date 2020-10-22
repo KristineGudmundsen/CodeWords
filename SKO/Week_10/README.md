@@ -1,6 +1,6 @@
 # Week 10
 
-[Sketch 5](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_10/MajorProjectSketch05/).
+[Sketch](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_10/MajorProjectSketch05/).
 
 ![png1](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_10/CodeText.png)
 
