@@ -58,6 +58,8 @@ I used the same z-axis numbers from the nested loop in an 'IF's' statements that
 ### Sketch_02
 [Sketch2](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_09/MajorProjectSketch02/)
 
+A more efficient way was to create a nested loop for the planes(). 
+
 ```javascript
 function draw() {
   background(0);
@@ -73,7 +75,7 @@ function draw() {
   sound0.loop(pos)*350;
 }
  ```
-A more efficient way was to create a nested loop for the planes(). 
+For the sounds, I declared a Position that would trigger the sounds. I also used 'pos += event.delta;', but this wouldn't work either because I didn't write the event anywhere?
 
 ```javascript
 function mouseWheel(event){
@@ -83,5 +85,4 @@ function mouseWheel(event){
   sound3.loop(pos)*650;
 }
  ```
- 
-For the sounds, I declared a Position that would trigger the sounds. I also used 'pos += event.delta;', but this wouldn't work either because I didn't write the event anywhere?
+
