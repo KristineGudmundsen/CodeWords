@@ -74,7 +74,8 @@ function draw() {
   sound0.loop(pos)*350;
 }
  ```
-For the sounds, I declared a Position that would trigger the sounds. I also used 'pos += event.delta;', but this wouldn't work either because I didn't write the event anywhere?
+ 
+For the sounds, I declared a Position that would trigger the sounds. I also used 'pos += event.delta;', but this wouldn't work either since the 'event' only existed in the mouseWheel() function, and not anywhere else.
 
 ```javascript
 function mouseWheel(event){
