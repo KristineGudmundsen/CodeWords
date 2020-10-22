@@ -27,6 +27,8 @@ Since the reader uses the mouse wheel to zoom out and navigate in the sketch, it
 ### Sketch_01
 [Sketch1](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_09/MajorProjectSketch01/)
 
+I looped the planes() manually to see how the planes() on different X and Y positions would look like. I also called the text in the draw() function, which meant that the text would draw over each other and look pixelated.
+
 ```javascript
   translate(0,0,350);
   background(0);
@@ -43,8 +45,7 @@ Since the reader uses the mouse wheel to zoom out and navigate in the sketch, it
   plane(200,150);
   pop();
 ```
-
-I looped the planes() manually to see how the planes() on different X and Y positions would look like. I also called the text in the draw() function, which meant that the text would draw over each other and look pixelated.
+I used the same z-axis numbers from the nested loop in an 'IF's' statements that would trigger the sounds. This didn't work. 
 
 ```javascript
 function mouseWheel() {
@@ -52,8 +53,6 @@ function mouseWheel() {
     sound1.play();
     sound1.loop();
 ```
-
-I used the same z-axis numbers from the nested loop in an 'IF's' statements that would trigger the sounds. This didn't work. 
 
 ### Sketch_02
 [Sketch2](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_09/MajorProjectSketch02/)
