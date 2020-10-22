@@ -9,7 +9,7 @@ I have always been inspired by the architectural look of modular design, and I t
 
 ![Website](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_02/BrandIdentity.png)
 
-After our hunter and gatherer session, I came across this typography workshop Only Studio and DR-Foundry held for Sheffield Hallam University. How they managed to make a whole typeface in just three days is indeed inspiring and motivating and something I would love to do. It's also a good example of modular typography being a playful and friendly way into the type design world. 
+After our hunting and gathering session, I came across this typography workshop Only Studio and DR-Foundry held for Sheffield Hallam University. How they managed to make a whole typeface in just three days is indeed inspiring and motivating and something I would love to do. It's also a good example of modular typography being a playful and friendly way into the type design world. 
 
 ## Weekly Inspo
 [Patrik Huebner's website](https://www.patrik-huebner.com)
