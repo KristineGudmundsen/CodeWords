@@ -86,3 +86,4 @@ function mouseWheel(event){
 }
  ```
 
+[Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_08) | [Next](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_10)
