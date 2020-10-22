@@ -10,8 +10,6 @@ When Andy had a look at my code to give feedback in week 11, the sound still bro
 
 For every new attempt, I uploaded it to GitHub to get someone to look at it. 
 
-[Test1000000](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketch16/).
-
 [OnlyPlay](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyPlay/).
 
 [OnlyLoop](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyLoop/).
@@ -26,7 +24,19 @@ For every new attempt, I uploaded it to GitHub to get someone to look at it.
 
 [mousePressed](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchTest100/).
 
+[Test1000000](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketch16/).
+
 I first made a backup code where the sounds are in the mousePressed() function. The sounds unmuted at every plane perfectly, but the user had to click every time they got to a new plane. 
+
+function mousePressed(){
+  let state = easycam.getState();
+    if(state.distance < 506){
+    sound0.play();
+    sound0.loop();
+    sound0.setVolume(0);
+    sound1.play();
+    sound1.loop();
+    sound1.setVolume(0);
 
 
 ### My Own Function
