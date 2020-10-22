@@ -94,7 +94,11 @@ if(state.distance < 500.1){
 
 ## Final Code
 
+![1](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_12/KristineGudmundsen_HeroImage5.jpg)
+
 [Grey](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords1/).
+
+![2](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_12/KristineGudmundsen_HeroImage2.jpg)
 
 [Blue](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords0/).
 
