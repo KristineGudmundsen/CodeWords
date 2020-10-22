@@ -96,7 +96,7 @@ if(state.distance < 500.1){
 
 ![1](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_12/KristineGudmundsen_HeroImage5.jpg)
 
-### [Final Code Grey](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords1/) | [Final Code Blue](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords0/).
+### [Final Code Grey](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords1/) | [Final Code Blue](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords0/)
 
 ![2](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_12/KristineGudmundsen_HeroImage2.jpg)
 
