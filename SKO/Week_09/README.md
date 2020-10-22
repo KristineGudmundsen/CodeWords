@@ -88,7 +88,7 @@ function mouseWheel(event){
 ## Weekly Inspo
 [Studio Drift](https://www.studiodrift.com/)
 
-Studio Drift is an artist collective that explores the boundaries of technology, art and nature. I admire how they use their impressive technical skills to create poetic art installations. They are so considerate with the use of sound, colour and material. - A big inspiration for my code. 
+Studio Drift is an artist collective that explores the boundaries of technology, art and nature. I admire how they use their impressive technical skills to create poetic interactive art installations. They are so considerate with the use of sound, colour and material. - A big inspiration for my code. 
 
 Here are some of my favourite projects:
 * https://www.studiodrift.com/work#/meadow/
