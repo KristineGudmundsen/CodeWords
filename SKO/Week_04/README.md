@@ -6,7 +6,7 @@
 
 Learning the basics of typography such as preload() and loadFont(), as well as learning more advanced type related functions, laid a solid foundation for moving into code + words. 
 
-## Sims
+## Brief 2: Re-readings
 
 ![sims](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_04/Premiere.png)
 
