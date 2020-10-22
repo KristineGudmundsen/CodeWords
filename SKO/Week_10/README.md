@@ -9,7 +9,10 @@ I created an array() with the sentences, and I wanted the texture() to call the 
 What happened was that all the sentences showed up on all the planes().  
 
 Sound issue:
-/*function mouseWheel(event){
+
+```javascript
+/*
+function mouseWheel(event){
   let scroll = 0;
    if (scroll > -350 && scroll < 0) {
       sound0.play();
@@ -46,6 +49,8 @@ Sound issue:
   sound3.loop(z*650);
   sound3.playMode('sustain');
 }
+*/
+```
 
 Even though some of my trials make sense won't work and I feel my attempts is a shot in the dark, I believe the two libraries I use (p5.easycam and p5.sound) are not working well together. Since I am using WEBGL and only 3D objects would work in the code, to play() and loop() sounds in the draw() function creates problems. 
 
