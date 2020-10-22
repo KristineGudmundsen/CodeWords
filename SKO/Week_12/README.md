@@ -67,6 +67,7 @@ Going back to where I started with the mouseWheel() function seemed to actually 
 
 I went through every single line and removed every unnecessary line of code. I then finally managed to find the problem by changing the first state.distance from 506 to 500.1. Since the sketch didn't start at 506 but 500.1, the sounds would be triggered numerous times from start(500.1) to 506. 
 
+```javascript
 //if(state.distance < 506){
 if(state.distance < 500.1){
    sound0.play();
@@ -74,14 +75,14 @@ if(state.distance < 500.1){
    sound0.setVolume(0);
    }
 }
+```
+
+## Final Code
 
 [Grey](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords1/).
 
 [Blue](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/CodeWords0/).
 
-
-
-Final Code:
 I have never experienced such ups and downs with designing as when coding. The feeling of finally solving my everlasting sound problem was the best feeling. I have been so close to giving up the sound, but through what felt like hundreds of codes that each led me one step closer to the solution, I was able to finally solve it. I now feel like I'm an expert at my code and the process of problem-solving have taught me a great deal of debugging and looking for solutions through testing(testing, testing), tutorials, references and reaching out for help.
 
 As I'm not a hundred per cent sure of the colours, I still want to experiment with colours some more and I might submit a new code to the website. 
