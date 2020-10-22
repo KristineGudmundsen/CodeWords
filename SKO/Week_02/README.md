@@ -24,6 +24,8 @@ The Sims group are Napasorn, Sam, Millicent, Un Ian and me. We created a Teams c
 
 ## More LetterCode
 
+![png](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_02/B.png)
+
 [LetterB](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_02/LetterBWeek2/).
 
 [Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_01) | [Next](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_03)
