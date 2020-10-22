@@ -19,6 +19,6 @@ Code Session:
 In our live coding session, we learned about preload() and basic sound references. We also looked at how to use the volume() to create designs that would respond to the sound. As I now know how to preload(), play(), loop() and stop() sound, I can start experimenting with sound for my major project.
 
 ## p5.easycam:
-Random Boxes + Custom PhongShader by Thomas Diewald https://www.openprocessing.org/sketch/493904
+[Random Boxes + Custom PhongShader by Thomas Diewald](https://www.openprocessing.org/sketch/493904)
 
 I also had a look at the p5 libraries to find a suitable library for my 3D code. p5.easycam provides simple 3D camera controls, which looks suitable for my project. I had a look at the OpenProcessing sketches and did the tutorial to get a feel of how it worked. 
