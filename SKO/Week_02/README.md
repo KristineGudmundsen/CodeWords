@@ -3,8 +3,6 @@
 ## Modular Typography
 ![Modular](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_02/HuntingGathering.png)
 
-'Build' Typeface - by Steven Bonner.
-
 I have always been inspired by the architectural look of modular design, and I think that’s why I’m so interested in typography. 
 
 ![Website](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_02/BrandIdentity.png)
