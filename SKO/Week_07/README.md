@@ -42,3 +42,4 @@ With this paragraph, I could visualise a circulation of words where clicking or 
 
 Although it would defiantly be interesting to translate all of the prototypes to code in the future, I will choose one to develop further before next week. 
 
+[Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_06) | [Next](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_08)
