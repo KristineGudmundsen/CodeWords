@@ -13,6 +13,9 @@ I chose to go with my "Think image. Compare it to sound." idea. My idea was to l
 I have always wanted to create more three-dimensional designs as well as getting better at creating multi-sensory experiences, such as using sound. Since I'm not an experienced sound designer, I asked my partner to create sounds in Ableton. It was important to create calm sounds that would be just diverse enough to tell the difference between the layers.
 
 ## p5.sound
+
+![png](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_08/SoundSketch.png)
+
 [Sound Sketch](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_08/SoundTorus/).
 
 Code Session:
