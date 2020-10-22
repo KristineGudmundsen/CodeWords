@@ -13,13 +13,13 @@ I was able to play() all the sounds according to their positions, but this meant
 
 ## Sketch_02 week11
 
-[Sketch sounds in sync](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_11/MajorProjectSketch11/).
+[Sketch_02](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_11/MajorProjectSketch11/).
 
 I therefor looped() all the sounds before setting the volume() in the 'ELSE IF' statement. This made the sounds in sync, but the sounds still broke as you zoomed out of the sketch. Karen suggested that I won't need an 'ELSE' as this would just cause more confusion.
 
 ## Sketch_03 week11
 
-[Sketch text and sound okay](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_11/MajorProjectSketch12/).
+[Sketch_03](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_11/MajorProjectSketch12/).
 
 In sketch 3, I muted, played() and looped() the sounds at the first plane(), and I then unmuted() all the sounds 'IF' state.distance > x. 
 The sounds still 'broke' as you scrolled out. My theory was that all the sound lines needed to be put in a function, as the draw function() is a 3D space. 
