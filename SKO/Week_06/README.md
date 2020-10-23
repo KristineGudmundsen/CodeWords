@@ -30,6 +30,6 @@ I still need to learn more about how to write efficient pseudocode to be able to
 https://www.richardsaltoun.com/viewing-room/7-ruth-wolf-rehfeldt-letters/
 
 As I have been researching typographic art for inspiration, I came across the German artist, Ruth Wolf-Rehfeldt. 
-Moved by the story of the mail art movement and how it was used an antidote to the cultural isolation of the Cold War, I like to think there are some tiny similarities with how we are working on and sharing our code during lockdown. There's also something code like with her designs, and I can see similarities between Wolf-Rehfeldt's designs and generative typography. 
+I was moved by the story of the mail art movement and how it was used an antidote to the cultural isolation of the Cold War. There's also something code like with her designs, and I can see similarities between Wolf-Rehfeldt's designs and generative typography. 
 
 [Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_05) | [Next](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_07)
