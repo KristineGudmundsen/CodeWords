@@ -129,4 +129,4 @@ I have never experienced such ups and downs with designing as when coding. The f
 
 As I'm not a hundred per cent sure of the colours, I still want to experiment with colours some more and I might submit a new code to the website. 
 
-[Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_11)
+[Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_11) | [Landing Page](https://github.com/KristineGudmundsen/CodeWords)
