@@ -131,6 +131,8 @@ As I'm not a hundred per cent sure of the colours, I still want to experiment wi
 
 ## Soft Launch
 
+![SoftLaunch](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_12/CodeWords.png)
+
 I'm deeply impressed by what everyone managed to produce. All the codes are so diverse and equally interesting and impressive. Starting with little or no coding knowledge, we have all come a long way this semester thanks to Andy's and Karen's teaching. 
 
 [Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_11) | [Landing Page](https://github.com/KristineGudmundsen/CodeWords)
