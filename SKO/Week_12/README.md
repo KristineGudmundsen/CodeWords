@@ -54,6 +54,19 @@ After watching some of Daniel Shiffman's tutorials on functions, I wrote my own 
 
 Yet again, the GitHub link worked on my computer, but not others. 
 
+```javascript
+function draw(){
+  sounds();
+}
+
+function sounds(){
+  let state = easycam.getState();
+  if(state.distance < 506){
+    sound0.play();
+    sound0.loop();
+    sound0.setVolume(0);
+ ```
+
 ### HUD
 
 [FunctionSoundHUDS](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchFunctionSoundsHUDS/).
