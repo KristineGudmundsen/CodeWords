@@ -129,4 +129,8 @@ I have never experienced such ups and downs with designing as when coding. The f
 
 As I'm not a hundred per cent sure of the colours, I still want to experiment with colours some more and I might submit a new code to the website. 
 
+## Soft Launch
+
+I'm deeply impressed by what everyone managed to produce. All the codes are so diverse and equally interesting and impressive. Starting with little or no coding knowledge, we have all come a long way this semester thanks to Andy's and Karen's teaching. 
+
 [Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_11) | [Landing Page](https://github.com/KristineGudmundsen/CodeWords)
