@@ -8,7 +8,7 @@
 
 When Andy had a look at my code to give feedback in week 11, the sound still broke. I tested a couple of my codes which worked on my computer on other devices and they only worked on mine. 
 
-For every new attempt, I uploaded it to GitHub to get someone to look at it. 
+As you can see, I had to upload every new attempt to GitHub to get someone test out and see if my code worked on their computer. Some of the codes are very similar. So I have tried to reflect on some of the major changes that got me to the final code. 
 
 [OnlyPlay](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyPlay/).
 
@@ -49,8 +49,8 @@ function mousePressed(){
 This led me to my next attempt. If I were able to get the sounds working in the mousePressed() function meant that I could use another function that wouldn't require clicking and it would still work. 
 
 After watching some of Daniel Shiffman's tutorials on functions, I wrote my own function. 
-https://www.youtube.com/watch?v=wRHAitGzBrg
-https://www.youtube.com/watch?v=zkc417YapfE
+* https://www.youtube.com/watch?v=wRHAitGzBrg
+* https://www.youtube.com/watch?v=zkc417YapfE
 Yet again, the GitHub link worked on my computer, but not others. 
 
 ### HUD
