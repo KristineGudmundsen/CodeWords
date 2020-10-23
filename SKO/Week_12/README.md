@@ -16,15 +16,9 @@ As you can see, I had to upload every new attempt to GitHub to get someone to te
 
 ### Backup codes/MousePressed
 
-[Backup2](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup2/).
+[MousePressed Demo](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketch16/)
 
-[Backup3](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup3/).
-
-[Backup4](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup4/).
-
-[mousePressed](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchTest100/).
-
-[MousePressed Demo](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketch16/).
+[MousePressed Code](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_12/MajorProjectSketchTest100)
 
 I first made a backup code where the sounds are in the mousePressed() function. The sounds unmuted at every plane perfectly, but the user had to click every time they got to a new plane. 
 
@@ -119,6 +113,15 @@ if(state.distance < 500.1){
    }
 }
 ```
+
+## Other Code Attemps
+
+Here's a list of all the code's with minor changes that I got my friends to test out on their computers:
+
+* [MousePressed1](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup2/).
+* [MousePressed2](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup3/)
+* [MousePressed3](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup4/)
+
 
 ## Final Code
 
