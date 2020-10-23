@@ -2,7 +2,7 @@
 
 ## Paper-prototyping
 
-As I read through the whole text, I found the 'remix culture' part interesting, and all of the paragraphs on page 209 - 210 would translate nicely to code. 
+As I read through Generation Flash by Lev Manovich, I found the 'remix culture' part interesting, and all of the paragraphs on page 209 - 210 would translate nicely to code. 
 
 ### Loop
 
