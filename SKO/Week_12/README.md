@@ -24,7 +24,7 @@ As you can see, I had to upload every new attempt to GitHub to get someone to te
 
 [mousePressed](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchTest100/).
 
-[Test1000000](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketch16/).
+[MousePressed Demo](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketch16/).
 
 I first made a backup code where the sounds are in the mousePressed() function. The sounds unmuted at every plane perfectly, but the user had to click every time they got to a new plane. 
 
