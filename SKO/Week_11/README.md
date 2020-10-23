@@ -2,6 +2,8 @@
 
 ## State.Distance
 
+![png](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_11/State.Distance.png)
+
 [State.distance test](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_11/MajorProjectStateDistanceTest/).
 
 Thanks to the p5.easycam examples by Thomas Diewald I discovered state.distance(), which measures the z position. Based on one of the examples, I tried to mute and unmute the sounds with state.distance(), which worked. I then used this method in my Major Project Sketch. 
