@@ -1,4 +1,5 @@
-# Hello CodeWorld
+# Code + Words
+Welcome to my coding diary! 
 
 ### [Week_01](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_01) | Minecraft + Letter Code
 ### [Week_02](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_02) | Modular Typography + Re-readings
