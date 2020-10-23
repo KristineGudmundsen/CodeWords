@@ -10,10 +10,6 @@ When Andy had a look at my code to give feedback in week 11, the sound still bro
 
 As you can see, I had to upload every new attempt to GitHub to get someone to test out and see if my code worked on their computer. Some of the codes are very similar. So I have tried to reflect on some of the major changes that got me to the final code. 
 
-[OnlyPlay](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyPlay/).
-
-[OnlyLoop](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyLoop/).
-
 ### Backup codes/MousePressed
 
 [MousePressed Demo](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketch16/)
@@ -38,7 +34,9 @@ function mousePressed(){
 
 ### My Own Function
 
-[FunctionSound](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchFunctionSounds/).
+[FunctionSound Demo](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchFunctionSounds/)
+
+[FunctionSound Code](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_12/MajorProjectSketchFunctionSounds/)
 
 This led me to my next attempt. If I were able to get the sounds working in the mousePressed() function meant that I could use another function that wouldn't require clicking and it would still work. 
 
@@ -63,11 +61,9 @@ function sounds(){
 
 ### HUD
 
-[FunctionSoundHUDS](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchFunctionSoundsHUDS/).
+[FunctionSoundHUDS Demo](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchFunctionSoundsHUDS2/)
 
-[FunctionSound2](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchFunctionSounds2/).
-
-[FunctionSoundHUDS2](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchFunctionSoundsHUDS2/).
+[FunctionSoundHUDS Code](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_12/MajorProjectSketchFunctionSoundsHUDS2/)
 
 I then moved the function into easycam.HUD() which creates a 2D space within the 3D code, which allows two-dimensional objects. I thought this might help lighten the code, but it didn't work. 
 
@@ -88,16 +84,9 @@ function sounds(){
 
 ### MouseWheel
 
-[MouseWheel](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel/).
+[MouseWheel Demo](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel5/)
 
-[MouseWheel2](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel2/).
-
-[MouseWheel3](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel3/).
-
-[MouseWheel4](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel4/).
-
-[MouseWheel5](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel5/).
-
+[MouseWheel Code](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_12/MajorProjectSketchMouseWheel5/)
 
 Going back to where I started with the mouseWheel() function seemed to actually work!! The only problem was that some of the sounds played more than one time. 
 
@@ -118,10 +107,17 @@ if(state.distance < 500.1){
 
 Here's a list of all the code's with minor changes that I got my friends to test out on their computers:
 
-* [MousePressed1](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup2/).
+* [OnlyPlay](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyPlay/)
+* [OnlyLoop](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyLoop/)
+* [MousePressed1](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup2/)
 * [MousePressed2](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup3/)
 * [MousePressed3](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchBackup4/)
-
+* [FunctionSound2](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchFunctionSounds2/).
+* [FunctionSoundHUDS](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchFunctionSoundsHUDS/).
+* [MouseWheel1](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel/)
+* [MouseWheel2](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel2/)
+* [MouseWheel3](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel3/)
+* [MouseWheel4](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchMouseWheel4/)
 
 ## Final Code
 
