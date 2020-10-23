@@ -64,11 +64,20 @@ Yet again, the GitHub link worked on my computer, but not others.
 
 I then moved the function into easycam.HUD() which creates a 2D space within the 3D code, which allows two-dimensional objects. I thought this might help lighten the code, but it didn't work. 
 
-function draw() {
+```javascript
+function draw(){
   easycam.beginHUD();
   sounds();
   easycam.endHUD();
-  
+}
+
+function sounds(){
+  let state = easycam.getState();
+  if(state.distance < 506){
+    sound0.play();
+    sound0.loop();
+    sound0.setVolume(0);
+ ```
 
 ### MouseWheel
 
