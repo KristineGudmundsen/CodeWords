@@ -130,7 +130,7 @@ I have never experienced such ups and downs with designing as when coding. The f
 
 As I'm not a hundred per cent sure of the colours, I still want to experiment with colours some more and I might submit a new code to the website. 
 
-I can honestly say that this has been the most instructive and interesting Studio, and it has been a perfect last semester of my bachelor. I am grateful I got the chance to learn code before graduating. Thank you for all the code sessions, knowledge sharing, feedback, help and playful assignments :) 
+I can honestly say that this has been the most instructive and interesting Studio, and it has been a perfect last semester of my bachelor. I am grateful I got the chance to learn code before graduating. CodeWords has not only thought me about CamelCase but also opened my eyes for code and I will like to continue coding and improve my skills for future designs. Thank you for all the code sessions, knowledge sharing, feedback, help, playful lectures and engaging assignments. 
 
 
 [Previous](https://github.com/KristineGudmundsen/CodeWords/tree/master/SKO/Week_11)
