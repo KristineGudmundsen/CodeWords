@@ -8,7 +8,7 @@ We started the semester with a walk in a virtual rainy Melbourne. It was nice to
 
 ## First code
 
-[LetterK](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_01/LetterK/).
+[LetterK Demo](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_01/LetterK/)
 
 ![this is an image](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_01/K1.png)
 ![this is an image](https://github.com/KristineGudmundsen/CodeWords/raw/master/SKO/Week_01/K2.png)
