@@ -8,7 +8,7 @@
 
 When Andy had a look at my code to give feedback in week 11, the sound still broke. I tested a couple of my codes which worked on my computer on other devices and they only worked on mine. 
 
-As you can see, I had to upload every new attempt to GitHub to get someone test out and see if my code worked on their computer. Some of the codes are very similar. So I have tried to reflect on some of the major changes that got me to the final code. 
+As you can see, I had to upload every new attempt to GitHub to get someone to test out and see if my code worked on their computer. Some of the codes are very similar. So I have tried to reflect on some of the major changes that got me to the final code. 
 
 [OnlyPlay](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyPlay/).
 
