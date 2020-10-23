@@ -105,7 +105,7 @@ if(state.distance < 500.1){
 
 ## Other Code Attemps
 
-Here's a list of all the code's with minor changes that I got my friends to test out on their computers:
+Here's a list of all the code's with minor changes that I got others to test out on their computers:
 
 * [OnlyPlay](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyPlay/)
 * [OnlyLoop](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_12/MajorProjectSketchOnlyLoop/)
