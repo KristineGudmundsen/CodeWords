@@ -44,7 +44,7 @@ function setup() {
   sentence = ['Think image.\nCompare\nit to\nsound.', 'It seems possible\nto layer many\nmany many\nsounds', 'and tracks\ntogether while\nmaintaining\nlegibility.', 'The results just\nkeep getting\nmore complex,\nmore interesting.', 'Vision seems to\nwork differently.\nOf course\ncommercial', 'images we see\neveryday on TV\nand in cinema\nare often made', 'from layers as\nwell, sometimes\nas many as\nthousands —', 'but these\nlayers work\ntogether to\ncreate a', 'single illusionistic\n(or super-\nillusionistic)\nspace.', 'In other words,\nthey are not\nheard as\nseparate sounds.', 'When we\nstart mixing\narbitrary images\ntogether,', 'we quickly\ndestroy\nany\nmeaning.']; 
   let colorList;
   //colorMode(HSB,360,100,100,100);
-  colorList = [color(255,255,255,165), color(0,0,255,165), color(200,255,118,165), color(255,70,0,165), color(197,199,255,165), color(0,100,0,165), color(97,58,255,165), color(255,255,0,165), color(0,0,255,165), color(197,199,255,165), color(255,70,0,165), color(200,255,118,165)];
+  colorList = [color(198,198,252,215), color(205,182,220,215), color(213,165,186,215), color(219,151,157,215), color(225,139,131,215), color(231,127,108,215), color(236,116,85,215), color(241,106,64,215), color(245,97,45,215), color(249,89,28,215), color(252,81,12,215), color(255,75,0,215)];
   sizeVariable=(map(width, 300, 1800, 34, 200));
   leadingVariable=(map(height, 550, 1400, 26, 350));
   positionVariable=(map(height, 550, 1400, 26, 300));
