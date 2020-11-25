@@ -1,6 +1,6 @@
 # Code + Words
 
-[Think Image. Compare it to sound]
+[Think Image. Compare it to sound](https://github.com/KristineGudmundsen/CodeWords/tree/master/ThinkImageCompareItToSound/)
 
 SKO for CodeWords 2020 by Kristine Gudmundsen
 
