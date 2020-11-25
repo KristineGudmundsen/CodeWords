@@ -1,6 +1,6 @@
 # Code + Words
 
-
+[Think Image. Compare it to sound](https://kristinegudmundsen.github.io/
 
 SKO for CodeWords 2020 by Kristine Gudmundsen
 
